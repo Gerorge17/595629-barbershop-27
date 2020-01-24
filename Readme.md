@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Сергей Плякин](https://up.htmlacademy.ru/htmlcss/27/user/595629).
+* Студент: [Рябцев Егор] (https://htmlacademy.ru/profile/id1269881).
 
 ---
 
